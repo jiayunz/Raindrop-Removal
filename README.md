@@ -4,7 +4,10 @@ This is a deep learning based method for raindrop removal from a single image.
 
 Copyright (c) 2019 by Jiayun Zhang, Fudan University (jiayunzhang15@fudan.edu.cn)
 
-## Installation:
+## System Design
+![image](https://github.com/landiveo/Raindrop-Removal/blob/master/system.png)
+
+## Installation
 
 The code has tested on Ubuntu 16.04.6. Please make sure that you have installed Python 2.7 and the packages required.
 
