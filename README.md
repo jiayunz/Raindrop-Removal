@@ -5,7 +5,7 @@ This is a deep learning based method for raindrop removal from a single image.
 Copyright (c) 2019 by Jiayun Zhang, Fudan University (jiayunzhang15@fudan.edu.cn)
 
 ## System Design
-![image](https://github.com/landiveo/Raindrop-Removal/blob/master/system.png)
+![image](system.png)
 
 ## Installation
 
